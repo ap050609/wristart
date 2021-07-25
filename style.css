@@ -1,0 +1,8 @@
+canvas
+{
+    border: 5px #800000;
+    border-radius: 0px;
+    box-shadow: 5px 5px 5px #800000;
+    height: 400px;
+    width: 400px;
+}
